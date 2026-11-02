@@ -1,0 +1,44 @@
+
+body {
+    background-color: #202124;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    color: #64b5f6;
+    margin-bottom: 30px;
+}
+
+main {
+    max-width: 700px;
+    margin: auto;
+}
+
+img {
+    width: 250px;
+    border-radius: 10px;
+    border: 3px solid #64b5f6;
+    margin-top: 15px;
+}
+
+.cartao {
+    background-color: #303134;
+    border: 2px solid #64b5f6;
+    border-radius: 12px;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+h2 {
+    color: #64b5f6;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    color: #aaaaaa;
+}
